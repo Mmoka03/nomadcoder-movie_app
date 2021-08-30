@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/nomadcoder-movie_app/static/css/main.d253b486.chunk.css",
+    "main.js": "/nomadcoder-movie_app/static/js/main.e18524bc.chunk.js",
+    "main.js.map": "/nomadcoder-movie_app/static/js/main.e18524bc.chunk.js.map",
+    "runtime-main.js": "/nomadcoder-movie_app/static/js/runtime-main.d4abcc8d.js",
+    "runtime-main.js.map": "/nomadcoder-movie_app/static/js/runtime-main.d4abcc8d.js.map",
+    "static/js/2.7a685f1a.chunk.js": "/nomadcoder-movie_app/static/js/2.7a685f1a.chunk.js",
+    "static/js/2.7a685f1a.chunk.js.map": "/nomadcoder-movie_app/static/js/2.7a685f1a.chunk.js.map",
+    "index.html": "/nomadcoder-movie_app/index.html",
+    "static/css/main.d253b486.chunk.css.map": "/nomadcoder-movie_app/static/css/main.d253b486.chunk.css.map",
+    "static/js/2.7a685f1a.chunk.js.LICENSE.txt": "/nomadcoder-movie_app/static/js/2.7a685f1a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d4abcc8d.js",
+    "static/js/2.7a685f1a.chunk.js",
+    "static/css/main.d253b486.chunk.css",
+    "static/js/main.e18524bc.chunk.js"
+  ]
+}
